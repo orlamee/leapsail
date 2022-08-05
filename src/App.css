@@ -32,7 +32,10 @@ body {
 
 .left {
   background-image: url('./img/bg.png');
-  padding: 200px;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 150px 0;
 }
 
 @media (min-width: 992px){
